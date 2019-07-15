@@ -14,7 +14,10 @@ require 'pry'
   #   }
   # }
   
-def (contacts)= {"Jon Snow" => {
+def contacts.each do |person,contact_details_hash
+  binding.pry
+end 
+  {"Jon Snow" => {
   name: "Jon", 
   email: "jon_snow@thewall.we",
   
