@@ -20,7 +20,7 @@ def remove_strawberry(contacts)= {"Jon Snow" => {
   
   favorite_ice_cream_flavors: ["chocolate","vanilla"]
 },
-"Freddy Mercury" =>
+"Freddy Mercury" => { name: "Freddy", email:"freddy@"
 }
 
 end
