@@ -14,6 +14,13 @@ require 'pry'
   #   }
   # }
   
-def remove_strawberry(contacts)
+def remove_strawberry(contacts)= {"Jon Snow" => {
+  name: "Jon", 
+  email: "jon_snow@thewall.we",
+  
+  favorite_ice_cream_flavors: ["chocolate","vanilla"]
+},
+"Freddy Mercury" =>
+}
 
 end
