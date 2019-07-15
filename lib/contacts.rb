@@ -14,7 +14,7 @@ require 'pry'
   #   }
   # }
   
-def contacts.each do |person,contact_details_hash
+def contacts.each do |person,contact_details_hash|
   binding.pry
 end 
   {"Jon Snow" => {
