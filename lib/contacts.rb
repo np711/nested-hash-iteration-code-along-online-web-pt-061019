@@ -14,7 +14,7 @@ require 'pry'
   #   }
   # }
   
-def remove_strawberry(contacts)= {"Jon Snow" => {
+def (contacts)= {"Jon Snow" => {
   name: "Jon", 
   email: "jon_snow@thewall.we",
   
